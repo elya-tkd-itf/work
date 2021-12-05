@@ -1,0 +1,7 @@
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num1\obj\Debug\num1.csproj.AssemblyReference.cache
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num1\obj\Debug\num1.csproj.CoreCompileInputs.cache
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num1\bin\Debug\num1.exe.config
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num1\bin\Debug\num1.exe
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num1\bin\Debug\num1.pdb
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num1\obj\Debug\num1.exe
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num1\obj\Debug\num1.pdb
