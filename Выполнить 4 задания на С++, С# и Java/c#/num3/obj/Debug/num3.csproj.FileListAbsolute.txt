@@ -1,0 +1,6 @@
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num3\bin\Debug\num3.exe.config
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num3\bin\Debug\num3.exe
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num3\bin\Debug\num3.pdb
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num3\obj\Debug\num3.csproj.CoreCompileInputs.cache
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num3\obj\Debug\num3.exe
+C:\Users\elyat\Desktop\work\Выполнить 4 задания на С++, С# и Java\c#\num3\obj\Debug\num3.pdb
